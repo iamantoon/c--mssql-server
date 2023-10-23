@@ -1,0 +1,11 @@
+C:\Labs\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Labs\lab2\lab2\lab2\bin\Debug\lab2.exe
+C:\Labs\lab2\lab2\lab2\bin\Debug\lab2.pdb
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.exe
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.pdb
+C:\Labs\lab2\lab2\lab2\obj\Debug\lab2.Form2.resources
